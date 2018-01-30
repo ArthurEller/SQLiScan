@@ -6,3 +6,7 @@ A SQLi Scanner in python 2.7
 python SQLiScan.py <wordlist.txt>
 ```
 
+# Systems tested
+  - Kali Linux
+  - Parrot OS
+  - LionSec
